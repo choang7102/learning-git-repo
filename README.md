@@ -1,3 +1,3 @@
 # Demo
 
-learning-git-repo
+learning-git-repo!
